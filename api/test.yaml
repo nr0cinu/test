@@ -1,0 +1,6 @@
+test:
+  key: val
+  id: 1
+  nested:
+  - is
+  - good
